@@ -1,19 +1,34 @@
 #EXTM3U
+ulr="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz
+
+https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz
+
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz
+
+
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml
+
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml
+
+
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml
+
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml
+
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
+
 #################################################
 teste
 
-#EXTINF:-1,BR: Conmebol 1
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVES",ViVA HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
-http://ay.is-a-anarchist.com:8000/BenjaminNew/CWvxxxfPNW/480346
+#EXTINF:-1 tvg-id="ZapViva.ao" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="filmes",ViVA HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
-#EXTINF:-1,BR: Conmebol 2
+#EXTINF:-1 tvg-id="viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVELA",ViVA
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
-http://ay.is-a-anarchist.com:8000/BenjaminNew/CWvxxxfPNW/480347
 
-#EXTINF:-1,BR: Conmebol 3
-
-http://ay.is-a-anarchist.com:8000/BenjaminNew/CWvxxxfPNW/480348
-
-#EXTINF:-1,BR: Conmebol 4
-
-http://ay.is-a-anarchist.com:8000/BenjaminNew/CWvxxxfPNW/480349
+#EXTINF:-1 tvg-id="Viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVEL",ViVA HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
