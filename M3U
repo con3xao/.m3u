@@ -3,7 +3,7 @@
 #################################################
 teste
 
-#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Naruto",Naruto
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Naruto",Naruto
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 
