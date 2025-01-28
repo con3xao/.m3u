@@ -3,15 +3,5 @@
 #################################################
 teste
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVES",ViVA HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
-
-#EXTINF:-1 tvg-id="ZapViva.ao" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="filmes",ZapViva.ao
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
-
-#EXTINF:-1 tvg-id="viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVELA",viva
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
-
-
-#EXTINF:-1 tvg-id="Viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVEL",Viva
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="NOVELAS",ViVA HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
