@@ -3,6 +3,5 @@
 ########################################################
 TESTE
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"
-tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
 http://super-cdn.link/tnt/index.m3u8
