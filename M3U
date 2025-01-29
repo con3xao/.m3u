@@ -3,5 +3,5 @@
 ########################################################
 TESTE
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TESTE",TNT 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TESTE",TNT HD
 http://super-cdn.link/tnt/index.m3u8
