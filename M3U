@@ -3,5 +3,5 @@
 ########################################################
 TESTE
 
-#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="Sport TV 4K UHD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TESTE",TNT HD
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="Sport TV 4K UHD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TESTE",TNT H
 http://super-cdn.link/tnt/index.m3u8
