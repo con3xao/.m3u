@@ -8,3 +8,7 @@ http://fzcdn.vood.top:80/hls/390574_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
 
 #EXTINF:-1 cuid="393" tvg-chno="393" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="•➤ Sinal Aberto 🇧🇷",Sony One Emoções 🇧🇷
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil 4K" tvg-logo="http://logos.serveronline.top/cnn.png" group-title="Canais - 4k",CNN Brasil 4K
+http://cinenet.xyz:80/3a0b12b3d43f/3a0b12b3d43f/2023821
