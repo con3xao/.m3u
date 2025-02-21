@@ -1,34 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTVent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/b7c052ff2029ec6846a1e5a45f489a46224d4032/PlutoTV/mx.xml/all.xm,http://server10.maxcdn.link:2052/xmltv.php?username=mx576&password=2007l"
 
 
-#############
-JORNALISMO PR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3492d6822618e371b1a2587c584cd988.webp" group-title="JORNALISMO PR", TV Evangelizar PR
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84998832d7465ef731fc0e141e6c5efa.webp" group-title="JORNALISMO PR", Central Tv Brasil PR
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/199ca27c8641d1d8a3abcae8cb13e37d.webp" group-title="JORNALISMO PR",RYV CANAL 38 PR
-https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp" group-title="JORNALISMO PR", Redetv! Mais PR
-https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/05a04d20468f33dcece26a290b7468d6.webp" group-title="JORNALISMO PR", TV CATVE PR
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/camera-ao-vivo/guaratuba-praia-central" group-title="JORNALISMO PR",Guaratuba - Praia Central PR 
-https://video02.logicahost.com.br/portaldacidadegtba/praiacentrali.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp" group-title="JORNALISMO PR", RedeTv! PR
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OP1rFwr.png" group-title="Canais | ABERTO",TV Paraná Turismo 
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-
 ######################################################
 FILMES E SERIES
 
